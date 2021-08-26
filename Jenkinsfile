@@ -7,21 +7,21 @@ pipeline {
     stage("build") {
       
       steps {
-        echo 'building the application!'
+        echo 'building the todo-app application!'
       }
     }
     
     stage("test") {
       
       steps {
-         echo 'testing the application!'
+         echo 'testing the todo-app application!'
       }
     }
     
     stage("deploy") {
       
       steps {
-         echo 'deploying the application!'
+         echo 'deploying the todo-app application!'
       }
     }
   }
