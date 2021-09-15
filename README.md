@@ -2,7 +2,8 @@
 
 ## Description
 
-This is the repository for my course REACT and REDUX which was organised by Helsinki Business Collage.This todo-list repository is an assignments given during the course period.
+This is the repository for my course REACT and REDUX which was organised by Helsinki Business Collage.This todo-list repository is an assignments given during the course period. Later on this repo was using to get known with CI-CD pipeline for the course AWS.
+
 - Program: Full Stack Web Developer
 - Group: REACT21K
 - Year: 2021
